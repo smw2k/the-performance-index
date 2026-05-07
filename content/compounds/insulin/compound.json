@@ -1,0 +1,280 @@
+{
+  "slug": "insulin",
+  "name": "Insulin",
+  "category": "Hormone / Peptide hormone",
+  "oneLiner": "The body's master metabolic hormone — discovered in 1921 and now the most extensively studied compound in human biology — governs how every cell in the body accesses energy, and is a survival necessity for Type 1 diabetes.",
+  "isFreePreviewPage": true,
+
+  "scores": {
+    "evidenceStrength": {
+      "score": 5,
+      "justification": "Insulin has over 100 years of clinical use and a uniquely deep evidence base. The DCCT (1993, n=1,441), UKPDS (1998, n=5,102), ORIGIN (2012, n=12,537), and ACCORD (2008, n=10,251) are among the largest and most rigorous RCTs in all of medicine. Insulin has continuous FDA approval since 1982 for modern recombinant analogues, and its mechanism of action is understood at the molecular level from receptor binding through to GLUT4 translocation. No other compound in the performance or metabolic space comes close to this evidence density."
+    },
+    "riskLevel": {
+      "level": "High",
+      "justification": "Hypoglycemia is the primary risk and can be life-threatening. The DCCT found a 2-3x increase in severe hypoglycemic episodes with intensive therapy. The ACCORD trial, which aggressively targeted HbA1c <6%, was stopped early due to increased mortality. In non-diabetic athletes, a case series (Ip et al. 2012) found 56.8% experienced hypoglycemia and one person lost consciousness. Lipodystrophy affects ~46% of insulin users with poor technique. Insulin is a prescription medication in most countries and requires clinical oversight. The risk label applies specifically to exogenous insulin use — endogenous insulin signalling issues are a separate category."
+    },
+    "popularity": {
+      "level": "High",
+      "justification": "Approximately 537 million people worldwide live with diabetes, and a substantial proportion use insulin. In the performance and bodybuilding community, insulin use is documented and the International Olympic Committee banned it for non-diabetic athletes in 1998. It appears consistently in discussions of metabolic health, biohacking, and the emerging GLP-1/insulin resistance space."
+    }
+  },
+
+  "beginner": {
+    "whatIsIt": [
+      "Insulin is a hormone your pancreas makes — specifically by clusters of cells called the islets of Langerhans. Every time you eat and your blood sugar rises, insulin is released into your bloodstream to deal with it. Without it, glucose accumulates in the blood but cannot enter your cells, which starve for energy while surrounded by fuel they cannot use. Before 1922, that meant death: Type 1 diabetes was untreatable and typically fatal within a few years. Then, in the summer of 1921, a Canadian surgeon named Frederick Banting and a medical student named Charles Best isolated the compound that changed everything. Within a year, a 14-year-old boy named Leonard Thompson had been brought back from the brink of death. Banting and Macleod shared the 1923 Nobel Prize.",
+      "What insulin does, at its most basic, is act as a key. After you eat, glucose accumulates in your blood. Insulin is released and binds to receptors on the surface of your cells — muscle cells, fat cells, liver cells — and this binding sets off a chain reaction that sends specialised transporter proteins (called GLUT4) to the surface of the cell. These transporters pull glucose out of the bloodstream and into the cell, where it can be burned for energy or stored for later. Your skeletal muscle alone is responsible for clearing about 70% of glucose from your blood after a meal. When insulin levels fall, the transporters retreat back inside, and glucose uptake slows.",
+      "Insulin matters beyond diabetes. It is the body's primary anabolic hormone — it promotes muscle protein synthesis, drives glycogen storage, and signals the body to build rather than break down. When insulin signalling works properly, energy is efficiently distributed, blood glucose stays stable, and the body recovers from exercise. When it does not — because of obesity, inflammation, or inactivity — the downstream effects include metabolic syndrome, type 2 diabetes, and cardiovascular risk. Understanding insulin is the foundation for understanding everything from fat loss to muscle building to longevity protocols."
+    ],
+    "howItWorks": "When blood sugar rises after a meal, the pancreas releases insulin into the bloodstream. Insulin binds to receptors on the surface of muscle, fat, and liver cells, triggering a signalling cascade that sends glucose transporter proteins (GLUT4) to the cell's surface. These transporters pull glucose from the blood into the cell, where it is either used for energy immediately or stored as glycogen for later. Insulin also signals the liver to stop producing glucose, and promotes protein synthesis in muscle. The net effect is that blood glucose falls back to a healthy range within one to two hours of eating.",
+    "whatPeopleUseItFor": [
+      "Type 1 diabetes — survival necessity: the immune system destroys insulin-producing cells, so exogenous insulin is required from diagnosis onwards",
+      "Type 2 diabetes — glycemic management when diet, exercise, and oral medications are no longer sufficient to keep blood glucose in a healthy range",
+      "Athletic performance and muscle building (off-label, high-risk): some bodybuilders and strength athletes use exogenous insulin for its anabolic and anti-catabolic effects, though evidence for this use is limited to case reports and the risks are substantial",
+      "Insulin resistance management: lifestyle interventions targeting insulin sensitivity (exercise, low-glycaemic diet, weight loss) are a major focus in preventive medicine",
+      "Anti-aging and longevity protocols (emerging, limited evidence): insulin sensitivity is associated with healthspan, and insulin signalling pathways intersect with mTOR and other longevity-related mechanisms"
+    ],
+    "sideEffects": "The most important risk of insulin therapy is hypoglycemia — blood sugar dropping too low, which can cause confusion, seizures, loss of consciousness, and in severe cases, death. The DCCT found intensive insulin therapy caused 2-3x more severe hypoglycemic episodes. Weight gain is common, particularly when starting insulin therapy. At injection sites, repeated injections can cause lipodystrophy — a build-up or breakdown of fatty tissue — which affects roughly 46% of insulin users who do not properly rotate sites, and impairs insulin absorption. All of these risks require clinical management and should not be navigated without medical supervision."
+  },
+
+  "deepDive": {
+    "mechanismOfAction": "Insulin begins its work the moment it reaches a cell's surface. The insulin receptor is a tyrosine kinase — a molecular machine that, when insulin docks into it, physically reshapes and activates, triggering a cascade of phosphorylation events inside the cell. The primary pathway runs through PI3K and a kinase called Akt. Once Akt is activated, it phosphorylates a series of targets that collectively flip the cell into an energy-storage and growth mode: it inactivates GSK3 (unlocking glycogen synthesis), blocks FoxO transcription factors (suppressing the liver's glucose production), activates mTOR (initiating protein synthesis), and triggers the AS160/RAB signalling chain that sends GLUT4 glucose transporter proteins from their holding compartments to the cell's surface. GLUT4 reaching the surface is the critical bottleneck: it is the molecular door through which glucose enters muscle and fat cells. Without it, glucose stays in the bloodstream. A secondary pathway — the MAPK/ERK cascade — handles gene expression, cell growth, and proliferation. This is also why insulin has anabolic effects beyond blood sugar: activated mTOR drives protein synthesis in skeletal muscle, GSK3 inhibition fills glycogen tanks, and suppressed lipolysis keeps the body from breaking down fat for fuel. When insulin signalling is intact and well-regulated, these effects are precisely timed and reversed when insulin levels fall. When signalling is chronically disrupted — by excess free fatty acids, inflammatory cytokines from visceral fat, or prolonged hyperinsulinemia — GLUT4 translocation becomes blunted and insulin resistance develops.",
+    "evidenceLandscape": "The evidence base for insulin is genuinely exceptional — not because every question has been answered, but because the questions have been asked with unusual rigour. The DCCT (1993, n=1,441) settled the core question in Type 1 diabetes: tight glycaemic control dramatically reduces microvascular complications. Retinopathy risk fell by 76% in the primary prevention cohort, and the EDIC follow-up showed a 58% reduction in cardiovascular events at 18 years — an effect that persisted long after the glycaemic advantage had disappeared, a phenomenon called metabolic memory. The UKPDS (1998, n=5,102) extended this logic to Type 2 diabetes: intensive control reduced microvascular disease by 25%, and post-trial follow-up revealed legacy cardiovascular benefits that only emerged a decade after the study ended. Together, these trials established that early, sustained glycaemic control materially alters the long-term disease trajectory.\n\nThat picture became more complex with ACCORD (2008, n=10,251) and ORIGIN (2012, n=12,537). ACCORD found that pushing HbA1c below 6% in high-risk Type 2 patients increased mortality and was stopped early. ORIGIN found that early basal insulin in people with pre-diabetes or dysglycemia was cardiovascularly neutral — it did not harm, but it also did not provide the protective benefit beyond glycaemic control that had been hoped. The current clinical consensus, reflected in ADA 2025 guidelines, is nuanced: glycaemic targets should be individualised, with HbA1c <7% appropriate for most non-pregnant adults but less aggressive targets warranted for older, higher-risk patients.\n\nFor athletic and biohacking use, the evidence picture is stark in its absence. No controlled efficacy trials exist for exogenous insulin as a performance enhancer in non-diabetic individuals. The available literature consists of case reports, case series, and mechanistic reasoning. The largest case series (Ip et al. 2012) documented 41 non-diabetic strength athletes using insulin — 56.8% reported hypoglycaemia, and the primary safety concern was serious acute harm, not the absence of benefit. The anabolic rationale is mechanistically coherent (mTOR activation, anti-catabolism), but translating mechanism into meaningful real-world performance gains in a non-diabetic athlete with intact insulin signalling has not been demonstrated."
+  },
+
+  "topStudies": [
+    {
+      "id": "study-1",
+      "title": "DCCT — Diabetes Control and Complications Trial (1993)",
+      "summary": "The landmark RCT that proved tight blood sugar control in Type 1 diabetes substantially reduces long-term complications. 1,441 patients were randomised to intensive insulin therapy (3+ daily injections or pump, targeting near-normal glucose) versus conventional therapy (1-2 injections) for a mean of 6.5 years. The intensive group achieved median HbA1c of 7.0% versus 9.0% in the conventional group. The results were so compelling the trial was stopped a year early.",
+      "citation": "[DCCT Research Group, N Engl J Med, 1993, RCT, n=1,441, PMID 8366922]",
+      "sourceId": "src-001",
+      "keyFinding": "Intensive insulin therapy reduced retinopathy development by 76%, nephropathy by 54%, and neuropathy by 60%. The 30-year EDIC follow-up revealed a 58% reduction in cardiovascular events — a lasting benefit of early tight control that persisted long after glycaemic differences disappeared.",
+      "limitations": "Only enrolled patients aged 13-39 with Type 1 diabetes; the intensive group had significantly more clinical contact (which may itself have contributed benefits); the high complexity of intensive therapy is difficult to replicate in standard care settings.",
+      "additionalSourceIds": ["src-016"]
+    },
+    {
+      "id": "study-2",
+      "title": "UKPDS 33 — UK Prospective Diabetes Study (1998)",
+      "summary": "The defining trial for Type 2 diabetes management. 5,102 patients with newly diagnosed Type 2 diabetes were randomised to intensive blood glucose control (with sulfonylureas or insulin, targeting fasting glucose <6 mmol/L) or conventional diet-based treatment over a median of 10 years. The intensive group achieved HbA1c of 7.0% versus 7.9% in the conventional group.",
+      "citation": "[UKPDS Group, The Lancet, 1998, RCT, n=5,102, PMID 9742976]",
+      "keyFinding": "Intensive therapy reduced microvascular complications by 25% — primarily by reducing the need for laser eye surgery. No significant macrovascular benefit emerged during the trial period. However, a 10-year post-trial follow-up revealed a 'legacy effect': the intensive therapy group later showed a 15% reduction in MI and a 13% reduction in all-cause mortality, effects that took years to emerge.",
+      "limitations": "Only newly diagnosed, relatively young patients from specialist diabetes clinics; high crossover between groups; macrovascular benefits may have been detectable with a longer primary follow-up. The legacy effect findings were post-hoc and observational."
+    },
+    {
+      "id": "study-3",
+      "title": "ORIGIN Trial — Outcome Reduction with Initial Glargine Intervention (2012)",
+      "summary": "The largest trial of early basal insulin use in pre-diabetes and dysglycemia. 12,537 participants from 40 countries with impaired fasting glucose, impaired glucose tolerance, or early Type 2 diabetes were randomised to insulin glargine (titrated to normalise fasting glucose) or standard care for a median of 6.2 years. The question: does early basal insulin protect the heart?",
+      "citation": "[ORIGIN Trial Investigators, N Engl J Med, 2012, RCT, n=12,537, PMID 22686416]",
+      "keyFinding": "Insulin glargine had a neutral effect on cardiovascular outcomes — it neither helped nor harmed. It reduced new-onset diabetes (30% vs 35%) and improved microvascular outcomes in those with higher baseline HbA1c, but increased severe hypoglycemia (1.00 vs 0.31 per 100 person-years) and caused modest weight gain. No increased cancer risk was observed.",
+      "limitations": "Older population (mean 63.5 years) with established cardiovascular risk — results may not apply to younger or lower-risk individuals. Compared insulin to evolving 'standard care', not to specific alternative agents. Cannot determine optimal timing of insulin initiation."
+    },
+    {
+      "id": "study-4",
+      "title": "ACCORD — Action to Control Cardiovascular Risk in Diabetes (2008)",
+      "summary": "A pivotal trial that changed clinical guidelines by demonstrating that more aggressive is not always better. 10,251 Type 2 diabetes patients at high cardiovascular risk were randomised to intensive glycaemic control (targeting HbA1c <6%) or standard therapy (targeting 7.0-7.9%). The intensive arm was stopped 17 months early after interim analysis found higher mortality.",
+      "citation": "[ACCORD Study Group, N Engl J Med, 2008, RCT, n=10,251, PMID 18539917]",
+      "keyFinding": "Intensive therapy targeting HbA1c below 6% increased all-cause mortality by 22% (HR 1.22, p=0.04) and cardiovascular mortality without reducing major cardiovascular events. Severe hypoglycemia was significantly higher in the intensive group (10.5% vs 3.5% per year). This trial fundamentally shifted guidelines away from universal tight glycaemic targets toward individualised goals.",
+      "limitations": "Specific to high-risk patients with long-standing Type 2 diabetes and elevated cardiovascular risk — cannot be generalised to younger, lower-risk patients. The exact mechanism of increased mortality was never definitively established; severe hypoglycemia and polypharmacy are strongly implicated but unproven. The target of <6% HbA1c is more aggressive than current ADA recommendations of <7%."
+    },
+    {
+      "id": "study-5",
+      "title": "Ip et al. 2012 — Weightlifting's risky new trend: a case series of 41 insulin users",
+      "summary": "The most systematic published study of insulin misuse in non-diabetic strength athletes. Researchers surveyed 41 nondiabetic individuals using insulin for performance enhancement across gyms and online communities. Participants were predominantly male (97.6%), with an average age of 30.7 years. Nearly all (95.1%) also used anabolic-androgenic steroids, with an average of 16.2 different PEDs per year.",
+      "citation": "[Ip EJ, Barnett MJ, Tenerowicz MJ, Perry PJ, Curr Sports Med Rep, 2012, case series, n=41, PMID 22777326]",
+      "keyFinding": "56.8% of athletic insulin users experienced hypoglycemic episodes; one individual lost consciousness. 80.6% found insulin easy to acquire. No controlled efficacy data for muscle-building exists — the theoretical rationale (mTOR activation, anti-catabolism) has not been tested in controlled trials of non-diabetic athletes.",
+      "limitations": "Small sample size from a self-selected community; cross-sectional survey design; participants were self-reporting; cannot establish causation; cannot determine actual muscle-building efficacy as no control group or outcome measures were included. Polydrug use confounds any attribution of effects to insulin alone."
+    }
+  ],
+
+  "dosageAndProtocols": {
+    "context": "Educational overview of how insulin therapy is structured clinically. This describes how clinicians approach insulin dosing — it is not a protocol, a recommendation, or a guide for self-administration.",
+    "commonProtocols": [
+      "Basal insulin: long-acting insulin analogs (glargine/Lantus, detemir/Levemir, degludec/Tresiba) given once or twice daily. These provide steady, low-level insulin coverage between meals and overnight, mimicking the pancreas's continuous background secretion. Onset is typically 2-4 hours; duration ranges from 18 hours to beyond 42 hours depending on the analog. The ADA 2025 guidelines note that ultra-long-acting analogs (degludec, glargine U300) are associated with lower rates of nocturnal hypoglycemia versus older formulations.",
+      "Bolus (mealtime) insulin: rapid-acting analogs (lispro/Humalog, aspart/NovoLog, glulisine/Apidra) given at mealtimes to cover the glucose spike from eating. Onset is typically 5-15 minutes; duration 3-5 hours. These are given in proportion to carbohydrate intake, adjusted based on pre-meal glucose levels and individual insulin-to-carbohydrate ratios.",
+      "Basal-bolus regimen: the combination of both basal and bolus insulin — the most physiologically accurate approach available through injection therapy. Standard in Type 1 diabetes and used in advanced Type 2 management. Requires careful glucose monitoring and dose adjustment.",
+      "Sliding scale (reactive dosing): correction doses of rapid-acting insulin given based on measured glucose readings, without necessarily accounting for meals. Now largely considered a reactive rather than proactive strategy and has been largely replaced by more structured regimens in modern clinical practice.",
+      "Insulin pump (CSII — continuous subcutaneous insulin infusion): a wearable device that delivers both basal and bolus insulin via a fine cannula inserted under the skin. Programmed to deliver small, continuous basal doses plus bolus doses triggered by the user before meals. When combined with continuous glucose monitoring (CGM), modern systems can automatically adjust insulin delivery in response to real-time glucose readings — the foundation of 'closed loop' or 'artificial pancreas' technology."
+    ],
+    "disclaimer": "This content is for educational purposes only and is not medical advice. The Performance Index does not recommend, prescribe, or endorse the use of any compound. Insulin is a prescription medicine in most countries and carries serious risks including life-threatening hypoglycemia. It requires medical supervision and should never be self-administered without clinical guidance. Always consult a licensed healthcare professional before making any changes to your health regimen."
+  },
+
+  "timelineExpectations": {
+    "phase1": {
+      "label": "Days 1–7",
+      "description": "Blood glucose levels typically improve rapidly once insulin dosing begins. Fasting and post-meal glucose readings usually fall towards target range within the first few days as the body responds to exogenous insulin. However, this initial period is also when hypoglycemia risk is highest, as the correct dose has not yet been established. Injection site discomfort, minor bruising, and injection anxiety are common early experiences. HbA1c does not change meaningfully in the first week — it reflects average glucose over approximately 3 months. Dose titration typically begins immediately and continues over several weeks.",
+      "evidenceType": "controlled"
+    },
+    "phase2": {
+      "label": "Weeks 2–6",
+      "description": "The titration period. Doses are adjusted upward or downward based on glucose patterns, with fasting glucose used to guide basal insulin and post-meal readings used to guide bolus insulin. Glycemic variability often decreases as patterns emerge and doses are refined. By 6-8 weeks, early meaningful changes in HbA1c become detectable, though full steady-state HbA1c changes typically require 12-16 weeks. Energy levels often improve as glucose is efficiently reaching cells. Early weight changes may appear — modest gain is common as glycosuria reduces and metabolism normalises.",
+      "evidenceType": "controlled"
+    },
+    "longTerm": {
+      "label": "Long-term (months to years)",
+      "description": "The DCCT demonstrated that consistent HbA1c control around 7% over years translates into dramatically reduced long-term complications: 76% reduction in retinopathy development, 54% reduction in nephropathy, and 60% reduction in neuropathy. The EDIC follow-up revealed a 58% reduction in cardiovascular events after 18 years — a delayed benefit reflecting 'metabolic memory'. Over the long term, ongoing monitoring of HbA1c, kidney function, lipids, and injection sites remains essential. Weight management becomes a significant consideration, as insulin therapy is associated with modest but cumulative weight gain that responds to dietary management and, increasingly, combination with GLP-1 agonists.",
+      "evidenceType": "controlled"
+    }
+  },
+
+  "sideEffectsDeepDive": [
+    {
+      "title": "Hypoglycemia",
+      "body": "Hypoglycemia — blood glucose dropping too low — is the most frequent, most serious, and most directly dangerous side effect of insulin therapy. The ADA classifies it in three levels: Level 1 (54-70 mg/dL, clinically significant), Level 2 (<54 mg/dL, requires immediate action), and Level 3 (severely altered mental status or physical impairment requiring external assistance). Symptoms arise from two mechanisms: autonomic activation (anxiety, tremor, palpitations, sweating — the body's alarm system) and neuroglycopenia, the direct effect of glucose deprivation on the brain (confusion, visual disturbances, seizures, loss of consciousness — typically onset at glucose below 54 mg/dL). The DCCT found 2-3x higher severe hypoglycemia in intensive therapy patients; ACCORD found 10.5% per year in the aggressive-control group versus 3.5% in standard therapy. Over time, repeated episodes can blunt the body's own warning system — a condition called hypoglycemia-associated autonomic failure (HAAF) — meaning patients may reach dangerously low glucose levels without experiencing warning symptoms. This affects approximately 50% of people with Type 1 diabetes after 25 years of the condition. Cardiovascular risk is real: meta-analyses of over 900,000 patients with Type 2 diabetes found a 2-fold increased cardiovascular morbidity risk during severe episodes, driven by catecholamine surges, QT prolongation, and arrhythmia risk. Severe hypoglycemia accounts for 4-10% of Type 1 diabetes mortality.",
+      "severity": "severe",
+      "sourceIds": ["src-001", "src-004", "src-007"]
+    },
+    {
+      "title": "Weight gain",
+      "body": "Weight gain is a well-documented and consistent side effect across major insulin trials: the DCCT recorded an average of 4.6 kg more in the intensive group; UKPDS showed ~4 kg gain with insulin versus conventional therapy over 10 years; ORIGIN showed 1.6 kg gain versus a 0.5 kg loss in the standard care group. Three distinct mechanisms drive this. First, reduced glycosuria: poorly controlled diabetes spills glucose into urine, effectively excreting calories. When insulin controls blood glucose, this stops, and caloric balance shifts. Second, direct anabolic adipose effects: insulin stimulates lipogenesis, suppresses lipolysis, induces PPARγ expression (a master adipogenesis gene), and promotes both the hypertrophy and hyperplasia of fat cells. Third, defensive eating: fear of hypoglycemia leads many patients to consume extra carbohydrates as a precaution, creating caloric surplus independent of insulin's direct metabolic effects. The nuance: weight gain is not uniform or inevitable. Modern long-acting analogs (degludec, glargine) cause less weight gain than older NPH insulin. Combination with GLP-1 receptor agonists can mitigate or reverse it. In patients who had significant pre-treatment weight loss from uncontrolled diabetes, some of the gain is restoration of lost tissue rather than new adiposity.",
+      "severity": "moderate",
+      "sourceIds": ["src-001", "src-002", "src-003", "src-010"]
+    },
+    {
+      "title": "Lipodystrophy (injection site complications)",
+      "body": "Repeated subcutaneous injections damage the fatty tissue beneath the skin, causing two distinct types of lipodystrophy. Lipohypertrophy (LH) is by far the most common, affecting approximately 46% of insulin-treated adults — representing an estimated 90 million people globally. It presents as a thickened, rubbery, often painless swelling at frequently-used injection sites, caused by insulin's direct lipogenic effect on local fat cells combined with mechanical trauma from repeated injections at the same location. The clinical consequences are serious: insulin absorption at LH sites is both delayed and erratic, leading to paradoxical glycaemic instability — unexplained hyperglycemia and hypoglycemia that responds poorly to dose adjustments. Many patients escalate doses unnecessarily because of this absorption problem. Lipoatrophy, the opposite reaction, is now rare (1-2% with modern purified insulins) but was historically common. It presents as a sunken, depressed scar, is immunologically mediated, and causes rapid insulin absorption into underlying muscle rather than controlled subcutaneous release — which significantly increases hypoglycemia severity and frequency. Both conditions are largely preventable through systematic injection site rotation, use of short thin needles, and not reusing needles.",
+      "severity": "mild",
+      "sourceIds": ["src-008", "src-015"]
+    },
+    {
+      "title": "Insulin resistance development",
+      "body": "A common concern — and a common misconception — is that insulin therapy itself causes or worsens insulin resistance. The mechanistic picture is more nuanced. Insulin resistance in Type 2 diabetes is primarily driven by obesity, chronic low-grade inflammation, and ectopic fat accumulation, not by insulin therapy per se. Visceral adipose tissue releases excess free fatty acids, TNF-alpha, IL-6, and other inflammatory cytokines that activate serine kinases, which then interfere with the PI3K/Akt insulin signalling pathway. The downstream effect is impaired GLUT4 translocation — cells cannot pull glucose from the blood efficiently, requiring the pancreas (or injected insulin) to produce more insulin to achieve the same effect. This progressive beta-cell failure is the natural history of Type 2 diabetes, not a consequence of treatment. That said, chronic peripheral hyperinsulinemia — which can occur with subcutaneous insulin delivery due to its unphysiological route (bypassing portal first-pass metabolism) — may contribute to some degree of peripheral insulin resistance over time. Managing weight, improving diet quality, and increasing physical activity remain the foundational interventions for improving insulin sensitivity alongside pharmacotherapy.",
+      "severity": "moderate",
+      "sourceIds": ["src-009", "src-005"]
+    },
+    {
+      "title": "Misuse and overdose risk",
+      "body": "In non-diabetic athletes and biohackers, exogenous insulin poses an extreme risk profile relative to any potential benefit. The anabolic rationale is mechanistically grounded — insulin activates mTOR (driving protein synthesis), inhibits protein catabolism, drives glycogen storage, and amplifies the effects of co-administered growth hormone and anabolic steroids. However, a non-diabetic person has intact insulin secretion. Injecting additional insulin creates a pharmacological oversupply with no compensatory mechanism. Blood glucose can fall to dangerously low levels within minutes, particularly with rapid-acting analogs. In a case series of 41 non-diabetic strength athletes using insulin (Ip et al. 2012), 56.8% reported hypoglycaemic episodes and one person lost consciousness. Exogenous insulin in a non-diabetic is essentially undetectable by anti-doping tests, which has contributed to its persistence in competitive bodybuilding. There are no controlled efficacy trials showing meaningful muscle-building advantages in non-diabetic individuals, meaning the theoretical benefit is unproven while the acute mortality risk is documented. The WADA banned insulin for non-diabetic athletes in 1999. Overdose — whether deliberate or accidental — can be rapidly fatal without immediate medical intervention.",
+      "severity": "severe",
+      "sourceIds": ["src-006", "src-011"]
+    }
+  ],
+
+  "bloodworkMonitoring": [
+    {
+      "title": "HbA1c (Glycated haemoglobin)",
+      "body": "HbA1c measures the percentage of haemoglobin molecules in red blood cells that have glucose attached. Because red blood cells live for approximately 90-120 days, HbA1c reflects average blood glucose over the preceding 2-3 months rather than a snapshot — making it the primary long-term indicator of glycaemic control. The ADA 2025 guidelines target HbA1c below 7.0% for most nonpregnant adults with diabetes (corresponding to an average blood glucose of roughly 154 mg/dL). More stringent targets (6-6.5%) may be appropriate for low-risk, motivated patients who can achieve them without significant hypoglycaemia. Less stringent targets (7.5-8% or higher) are appropriate for older patients, those with limited life expectancy, or those with hypoglycaemia unawareness. The DCCT demonstrated that maintaining HbA1c around 7% rather than 9% translated into 76% less retinopathy and 60% less neuropathy — making it the best-validated long-term management metric in medicine. Testing at least twice per year when stable; quarterly when adjusting therapy.",
+      "markers": ["HbA1c"],
+      "sourceIds": ["src-014"]
+    },
+    {
+      "title": "Fasting glucose",
+      "body": "Fasting plasma glucose (FPG) — measured after at least 8 hours without eating — directly reflects basal insulin's effectiveness. The ADA 2025 target for most adults is 80-130 mg/dL (4.4-7.2 mmol/L) before meals. Fasting glucose is the primary metric used to guide basal insulin titration: if fasting readings are consistently above target, basal insulin is increased in small steps; if readings are frequently low, the dose is reduced. Elevated fasting glucose typically reflects insufficient overnight insulin coverage. Post-meal glucose targets (1-2 hours after meals) should be below 180 mg/dL and are used to guide bolus insulin adjustment. Together, fasting and post-meal readings provide the picture that HbA1c averages out.",
+      "markers": ["fasting glucose", "post-meal glucose"]
+    },
+    {
+      "title": "Continuous glucose monitoring (CGM)",
+      "body": "CGM devices measure interstitial glucose (the fluid surrounding cells) every 1-15 minutes, providing real-time glucose values, trend arrows (direction and rate of change), and configurable alarms. The ADA 2025 recommends CGM for all people with Type 1 diabetes on multiple daily injections or an insulin pump. The primary CGM metric — Time in Range (TIR) — targets glucose between 70-180 mg/dL for at least 70% of the day, with less than 4% of time below 70 mg/dL and less than 1% below 54 mg/dL. TIR provides information that HbA1c cannot: it captures glucose variability, nocturnal patterns, and the duration of dangerous lows or highs. Clinical trials have consistently shown that CGM use reduces hypoglycemia time and improves HbA1c compared to self-monitored blood glucose alone in Type 1 diabetes.",
+      "markers": ["CGM time-in-range", "glucose variability", "time below range", "time above range"],
+      "sourceIds": ["src-013", "src-014"]
+    },
+    {
+      "title": "Lipid panel",
+      "body": "Cardiovascular disease is the leading cause of death in people with diabetes, accounting for approximately 50% of diabetes-related mortality. Insulin resistance is directly associated with dyslipidaemia: the classic pattern is elevated triglycerides, low HDL cholesterol, and small dense LDL particles that are more atherogenic than standard LDL. The ADA recommends a fasting lipid panel at diagnosis and then annually (or more frequently if treatment is adjusted). Statin therapy is recommended for most patients with diabetes aged over 40 or with cardiovascular risk factors, regardless of baseline LDL. Triglycerides above 150 mg/dL and HDL below 40 mg/dL (men) or 50 mg/dL (women) are common targets for lifestyle and pharmacological intervention in the metabolic syndrome context.",
+      "markers": ["LDL", "HDL", "triglycerides", "total cholesterol", "non-HDL cholesterol"]
+    },
+    {
+      "title": "Kidney function",
+      "body": "Diabetic kidney disease (diabetic nephropathy) is the leading cause of chronic kidney disease in developed countries, caused by chronic hyperglycaemia damaging the glomerular filtration apparatus. Early detection is critical because the damage is largely preventable with good glycaemic and blood pressure control. The first sign of diabetic nephropathy is microalbuminuria — small amounts of albumin appearing in the urine before overt kidney damage has occurred. The ADA recommends annual urine albumin-to-creatinine ratio (UACR) and estimated glomerular filtration rate (eGFR) screening for all people with Type 1 diabetes of more than 5 years' duration, and all Type 2 patients beginning at diagnosis. UACR above 30 mg/g suggests early diabetic nephropathy; eGFR below 60 mL/min/1.73m² indicates chronic kidney disease. Kidney function also affects insulin clearance — impaired kidneys clear insulin more slowly, increasing hypoglycemia risk and requiring dose reduction.",
+      "markers": ["eGFR", "urine albumin-to-creatinine ratio (UACR)", "serum creatinine"]
+    }
+  ],
+
+  "mythsVsReality": [
+    {
+      "claim": "Insulin makes you fat.",
+      "reality": "Weight gain with insulin is real but context-dependent and mechanistically specific. When blood glucose is poorly controlled, the body spills glucose into urine — effectively losing calories. Starting insulin stops this process, and that caloric shift can contribute to weight gain. Additionally, insulin's anabolic effects on adipose tissue (stimulating lipogenesis, suppressing lipolysis) and defensive overeating driven by fear of hypoglycaemia all contribute. However, weight gain is not inevitable. Modern long-acting analogs cause less weight gain than older formulations. Combining insulin with GLP-1 receptor agonists can actually produce weight loss. In patients who lost significant weight from uncontrolled hyperglycaemia before starting insulin, some of the observed gain is restoration rather than new adiposity. Diet quality, exercise, and medication choice heavily modify the outcome.",
+      "sourceIds": ["src-010", "src-002", "src-001"]
+    },
+    {
+      "claim": "Starting insulin means you have failed at managing your diabetes.",
+      "reality": "This is one of the most damaging myths in diabetes care, and it delays treatment for many people with Type 2 diabetes who would benefit. Type 1 diabetes requires insulin from diagnosis — there is no management failure involved. For Type 2 diabetes, the UKPDS showed that over 50% of patients who began with intensive oral therapy eventually required insulin over 10 years — not because of poor management, but because of progressive beta-cell decline, which is the natural course of the disease. The ADA 2025 guidelines state insulin can be appropriate at any stage of Type 2 diabetes when glycaemic targets are not met or specific clinical circumstances warrant it. The decision to start insulin reflects disease progression, not patient failure.",
+      "sourceIds": ["src-002", "src-012"]
+    },
+    {
+      "claim": "Athletes using insulin will dramatically increase muscle mass.",
+      "reality": "The mechanistic logic is real: insulin activates mTOR (driving protein synthesis) and inhibits protein catabolism, particularly when combined with growth hormone and anabolic steroids. However, there are no controlled efficacy trials demonstrating meaningful muscle hypertrophy from exogenous insulin in non-diabetic athletes. In a non-diabetic person, insulin signalling is already functioning — adding exogenous insulin does not necessarily amplify the anabolic response beyond what a normal hormonal environment produces. What is documented is serious hypoglycemia: in a case series of 41 non-diabetic strength athletes using insulin, 56.8% experienced hypoglycaemic episodes and one person lost consciousness. The primary documented outcome from non-medical insulin use in athletes is dangerous low blood sugar, not significant performance enhancement.",
+      "sourceIds": ["src-006", "src-011"]
+    },
+    {
+      "claim": "Natural insulin from diet can replace injected insulin for Type 1 diabetes.",
+      "reality": "In Type 1 diabetes, the immune system has destroyed the insulin-producing beta cells entirely. No dietary approach, herbal supplement, intermittent fasting protocol, or lifestyle intervention can restore insulin production — there is nothing to stimulate. Exogenous insulin is not optional for Type 1 diabetes; it is a survival requirement. Stopping insulin in a person with Type 1 diabetes leads to diabetic ketoacidosis within days and death. Dietary approaches that minimise carbohydrate intake can reduce the amount of insulin needed, but cannot replace it. The distinction between Type 1 and Type 2 diabetes is fundamental here: Type 2 involves insulin resistance with residual beta-cell function, which does respond to lifestyle intervention. Type 1 does not.",
+      "sourceIds": ["src-012"]
+    },
+    {
+      "claim": "Insulin is addictive.",
+      "reality": "Insulin is not addictive in any pharmacological or psychological sense. It does not bind to reward pathways, does not cause tolerance that requires escalating doses for the same effect, and does not produce withdrawal symptoms when stopped (in the way addictive substances do). The reason people with Type 1 diabetes use insulin indefinitely is because the condition is permanent — their beta cells cannot be restored — not because insulin has created a dependence. People with Type 2 diabetes sometimes reduce or stop insulin when glycaemic control improves through weight loss or other interventions. What can develop over time is a psychological reliance tied to fear of hyperglycaemia, but this is a consequence of living with a serious chronic condition, not a pharmacological property of insulin.",
+      "sourceIds": ["src-012"]
+    }
+  ],
+
+  "relatedCompounds": [
+    {
+      "slug": "retatrutide",
+      "name": "Retatrutide",
+      "reason": "Triple GLP-1/GIP/glucagon receptor agonist — works on the same metabolic pathways as insulin but through an entirely different mechanism. Relevant for understanding the next generation of metabolic therapies and how they compare to insulin in managing glucose, weight, and cardiovascular risk."
+    },
+    {
+      "slug": "semaglutide",
+      "name": "Semaglutide",
+      "reason": "GLP-1 receptor agonist used in Type 2 diabetes alongside or as an alternative to insulin. The STEP trials showed significant metabolic effects including weight loss, and semaglutide is increasingly used in combination with insulin to reduce insulin dose requirements and manage weight gain."
+    },
+    {
+      "slug": "ghk-cu",
+      "name": "GHK-Cu",
+      "reason": "Copper peptide with regenerative and wound-healing interest. Shares the broader platform theme of peptide hormones and their biological signalling roles — useful comparison for understanding how different peptide compounds operate at the molecular level."
+    },
+    {
+      "slug": "bpc-157",
+      "name": "BPC-157",
+      "reason": "Body protection compound peptide; sometimes discussed alongside insulin in recovery and metabolic optimisation contexts, particularly in relation to gut health and tissue repair. Useful contrast between a well-evidenced compound (insulin) and one with a much earlier-stage and preclinical evidence base."
+    }
+  ],
+
+  "insulinOnly": {
+    "contextSection": {
+      "heading": "Why insulin is your free preview",
+      "body": "Insulin is the most studied hormone in human biology — over 100 years of clinical evidence, four landmark RCTs involving more than 35,000 patients, and a molecular mechanism understood down to individual amino acid residues. Understanding how it works is the foundation for making sense of everything else on this platform: from how GLP-1 agonists improve glycaemic control differently from insulin, to why peptide hormones have anabolic appeal, to what 'insulin resistance' actually means at the cellular level. This page is free because that foundation matters, and because we think the best way to demonstrate what The Performance Index does is to show you."
+    },
+    "compoundCallouts": [
+      {
+        "slug": "retatrutide",
+        "name": "Retatrutide",
+        "teaser": "Retatrutide is the first triple-receptor agonist to hit Phase 3 trials — hitting GLP-1, GIP, and glucagon receptors simultaneously. Phase 2 data showed weight reductions of up to 24% at 48 weeks, surpassing semaglutide in head-to-head comparisons. The Retatrutide page covers the mechanism behind why activating three receptors outperforms two, what the trial data actually shows, and how to think about its risk profile as Phase 3 results emerge.",
+        "ctaText": "Unlock Retatrutide"
+      },
+      {
+        "slug": "semaglutide",
+        "name": "Semaglutide (Ozempic / Wegovy)",
+        "teaser": "Semaglutide is the most commercially successful diabetes and weight loss drug in history — but the STEP trial data, the SELECT cardiovascular trial, and the growing debate about muscle loss and rebound weight deserve a closer look than most coverage provides. The semaglutide page breaks down how GLP-1 receptor agonism differs mechanistically from insulin, what the landmark trials actually showed, and the unresolved questions about long-term use.",
+        "ctaText": "Unlock Semaglutide"
+      },
+      {
+        "slug": "bpc-157",
+        "name": "BPC-157",
+        "teaser": "BPC-157 is a synthetic peptide derived from a gastric protein, and it has generated considerable interest in the recovery and bodybuilding space. The problem: almost all the positive data comes from rodent models. The BPC-157 page breaks down what the animal research actually shows, why human trials are nearly absent, and how to apply appropriate scepticism when mechanistic plausibility outpaces human evidence — a critical skill in this space.",
+        "ctaText": "Unlock BPC-157"
+      },
+      {
+        "slug": "ghk-cu",
+        "name": "GHK-Cu",
+        "teaser": "GHK-Cu is a naturally occurring copper peptide with a legitimate wound-healing and skin-repair evidence base — but like many compounds in this space, the in-vitro data and the marketing claims have diverged considerably. The GHK-Cu page maps where the science is solid, where it gets speculative, and what distinguishes a compound with real biological activity from one that has been oversold on the strength of laboratory findings that haven't translated to clinical use.",
+        "ctaText": "Unlock GHK-Cu"
+      }
+    ],
+    "platformValueSection": {
+      "heading": "What The Performance Index gives you",
+      "body": "Every compound on this platform gets the same treatment as this page: primary sources checked, trial data read directly rather than paraphrased from secondary sources, a real distinction between what research shows and what forums claim, and an honest risk assessment that does not minimise inconvenient findings. Clarity over hype is not a brand value — it is the only editorial policy that makes this useful."
+    },
+    "socialProofPlaceholders": [
+      {
+        "type": "stat",
+        "content": "[PLACEHOLDER: X members have used this page to understand their metabolic health]"
+      },
+      {
+        "type": "testimonial",
+        "content": "[PLACEHOLDER: Testimonial from a member who found the insulin page useful before exploring the full library]"
+      }
+    ]
+  }
+}

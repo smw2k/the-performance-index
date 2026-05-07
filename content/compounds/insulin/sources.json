@@ -1,0 +1,178 @@
+[
+  {
+    "id": "src-001",
+    "type": "pubmed",
+    "title": "The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8366922/",
+    "pmid": "8366922",
+    "doi": "10.1056/NEJM199309303291401",
+    "year": 1993,
+    "studyType": "RCT",
+    "addedReason": "DCCT — the landmark trial proving that intensive insulin therapy reduces retinopathy, nephropathy, and neuropathy in Type 1 diabetes; primary source for all DCCT citations in compound.json including hypoglycemia risk data and efficacy findings."
+  },
+  {
+    "id": "src-002",
+    "type": "pubmed",
+    "title": "Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9742976/",
+    "pmid": "9742976",
+    "doi": "10.1016/S0140-6736(98)07019-6",
+    "year": 1998,
+    "studyType": "RCT",
+    "addedReason": "UKPDS 33 — defining trial of intensive glycaemic control in Type 2 diabetes; primary source for UKPDS citations including microvascular benefit data, weight gain evidence, and the legacy effect via the 10-year post-trial follow-up (PMID 18784090)."
+  },
+  {
+    "id": "src-003",
+    "type": "pubmed",
+    "title": "Basal insulin and cardiovascular and other outcomes in dysglycemia (ORIGIN Trial)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22686416/",
+    "pmid": "22686416",
+    "doi": "10.1056/NEJMoa1203858",
+    "year": 2012,
+    "studyType": "RCT",
+    "addedReason": "ORIGIN Trial — largest trial of early basal insulin in dysglycemia; primary source for ORIGIN citations including cardiovascular neutrality, hypoglycemia rates, and weight gain data for glargine vs. standard care."
+  },
+  {
+    "id": "src-004",
+    "type": "pubmed",
+    "title": "Effects of intensive glucose lowering in type 2 diabetes (ACCORD Trial)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18539917/",
+    "pmid": "18539917",
+    "doi": "10.1056/NEJMoa0802743",
+    "year": 2008,
+    "studyType": "RCT",
+    "addedReason": "ACCORD — pivotal trial stopped early due to increased mortality in intensive glycaemic control arm; primary source for all ACCORD citations including mortality data (HR 1.22), severe hypoglycemia rates, and the shift toward individualised glycaemic targets."
+  },
+  {
+    "id": "src-005",
+    "type": "pubmed",
+    "title": "The Insulin Receptor and Its Signal Transduction Network",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK378978/",
+    "pmid": null,
+    "doi": null,
+    "year": 2015,
+    "studyType": "review / book chapter",
+    "addedReason": "Endotext/NCBI Bookshelf chapter on insulin receptor signalling; primary source for mechanism of action content including PI3K/Akt pathway, GLUT4 translocation, mTOR anabolic effects, and insulin resistance mechanisms."
+  },
+  {
+    "id": "src-006",
+    "type": "pubmed",
+    "title": "Growth hormone, IGF-I and insulin and their abuse in sport",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2439509/",
+    "pmid": "18428888",
+    "doi": "10.1038/sj.bjp.0707428",
+    "year": 2008,
+    "studyType": "review",
+    "addedReason": "Review of insulin misuse in athletics; primary source for the athlete/performance context including anabolic rationale, IOC/WADA ban history, detection challenges, and health risks of non-medical insulin use."
+  },
+  {
+    "id": "src-007",
+    "type": "pubmed",
+    "title": "Hypoglycemia in diabetes: An update on pathophysiology, treatment, and prevention",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8696639/",
+    "pmid": "34888038",
+    "doi": "10.4239/wjd.v12.i12.2036",
+    "year": 2021,
+    "studyType": "review",
+    "addedReason": "Comprehensive review of hypoglycemia pathophysiology, ADA classification levels, HAAF mechanisms, cardiovascular consequences, and treatment protocols; primary source for the hypoglycemia side effect section."
+  },
+  {
+    "id": "src-008",
+    "type": "pubmed",
+    "title": "Lipodystrophy in Insulin-Treated Subjects and Other Injection-Site Skin Reactions: Are We Sure Everything is Clear?",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5014793/",
+    "pmid": "27124697",
+    "doi": "10.1177/1932296816648344",
+    "year": 2016,
+    "studyType": "review",
+    "addedReason": "Clinical review of lipodystrophy including prevalence (46% of insulin users have LH), mechanisms of lipoatrophy vs. lipohypertrophy, glycaemic consequences of injection site complications, and prevention strategies."
+  },
+  {
+    "id": "src-009",
+    "type": "pubmed",
+    "title": "Mechanisms linking obesity to insulin resistance and type 2 diabetes",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17167471/",
+    "pmid": "17167471",
+    "doi": "10.1038/nature05482",
+    "year": 2006,
+    "studyType": "review",
+    "addedReason": "Nature review by Kahn, Hull, Utzschneider on mechanisms linking obesity to insulin resistance; primary source for insulin resistance mechanism section including adipose dysfunction, inflammation, FFA lipotoxicity, and beta-cell failure."
+  },
+  {
+    "id": "src-010",
+    "type": "journal",
+    "title": "Insulin-associated weight gain in diabetes — causes, effects and coping strategies",
+    "url": "https://dom-pubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1463-1326.2006.00686.x",
+    "pmid": null,
+    "doi": "10.1111/j.1463-1326.2006.00686.x",
+    "year": 2006,
+    "studyType": "review",
+    "addedReason": "Dedicated review of insulin-associated weight gain mechanisms (reduced glycosuria, adipogenesis, defensive eating, unphysiological pharmacokinetics); primary source for weight gain section and insulin/fat myth content."
+  },
+  {
+    "id": "src-011",
+    "type": "pubmed",
+    "title": "Weightlifting's risky new trend: a case series of 41 insulin users",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22777326/",
+    "pmid": "22777326",
+    "doi": "10.1249/JSR.0b013e31825f14b6",
+    "year": 2012,
+    "studyType": "case series",
+    "addedReason": "Most systematic published study of insulin misuse in non-diabetic strength athletes; primary source for prevalence data (56.8% hypoglycemia rate), demographic profile, acquisition patterns, and polydrug use context."
+  },
+  {
+    "id": "src-012",
+    "type": "journal",
+    "title": "Insulin Myths and Facts",
+    "url": "https://diabetesjournals.org/clinical/article/25/1/39/1493/Insulin-Myths-and-Facts",
+    "pmid": null,
+    "doi": "10.2337/diaclin.25.1.39",
+    "year": 2007,
+    "studyType": "educational article",
+    "addedReason": "ADA Clinical Diabetes article cataloguing common insulin myths with evidence-based realities; primary source for all mythsVsReality entries including addiction, treatment failure framing, complication causation, and dietary replacement claims."
+  },
+  {
+    "id": "src-013",
+    "type": "guidelines",
+    "title": "ADA Standards of Care in Diabetes — 2025, Section 9: Pharmacologic Approaches to Glycemic Treatment",
+    "url": "https://diabetesjournals.org/care/article/48/Supplement_1/S181/157569/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+    "pmid": null,
+    "doi": "10.2337/dc25-S009",
+    "year": 2025,
+    "studyType": "clinical guidelines",
+    "addedReason": "ADA 2025 guidelines on pharmacological insulin therapy including insulin types, basal-bolus protocols, Type 1 and Type 2 recommendations, CGM integration, and weight management context; primary source for dosageAndProtocols section."
+  },
+  {
+    "id": "src-014",
+    "type": "guidelines",
+    "title": "ADA Standards of Care in Diabetes — 2025, Section 6: Glycemic Goals and Hypoglycemia",
+    "url": "https://diabetesjournals.org/care/article/48/Supplement_1/S128/157561/6-Glycemic-Goals-and-Hypoglycemia-Standards-of",
+    "pmid": null,
+    "doi": "10.2337/dc25-S006",
+    "year": 2025,
+    "studyType": "clinical guidelines",
+    "addedReason": "ADA 2025 glycaemic target guidelines including HbA1c targets (<7% for most adults), fasting glucose targets (80-130 mg/dL), CGM Time in Range targets (≥70% time 70-180 mg/dL), and kidney/lipid monitoring guidance; primary source for bloodworkMonitoring section."
+  },
+  {
+    "id": "src-015",
+    "type": "regulatory",
+    "title": "Lantus (insulin glargine injection) — FDA Prescribing Information",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6c81d894-67eb-4c68-8af1-8cc220adb6f5",
+    "pmid": null,
+    "doi": null,
+    "year": 2022,
+    "studyType": "FDA prescribing information",
+    "addedReason": "Official FDA-approved prescribing information for insulin glargine (Lantus); reference for indications, mechanism of action, dosing regimens, contraindications, adverse reactions (hypoglycemia, weight gain, lipodystrophy), and drug interactions."
+  },
+  {
+    "id": "src-016",
+    "type": "pubmed",
+    "title": "The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Study at 30 Years: Overview",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3867999/",
+    "pmid": "24356597",
+    "doi": "10.2337/dc13-2112",
+    "year": 2014,
+    "studyType": "observational follow-up / overview",
+    "addedReason": "30-year overview of DCCT/EDIC including metabolic memory phenomenon, the 58% cardiovascular event reduction after 18 years, long-term kidney and neuropathy outcomes, and the finding that HbA1c explained >98% of complication differences; primary source for evidenceLandscape and long-term timeline section."
+  }
+]
